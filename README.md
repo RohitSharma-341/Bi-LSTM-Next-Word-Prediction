@@ -15,3 +15,6 @@ Architecture of Bi-LSTM:
 3.Bi-LSTM: The Bi-LSTM layer is the core component of the architecture. It consists of two LSTM layers: one processing the input sequence in the forward direction and the other in the backward direction. Each LSTM layer has its own set of parameters.
 
 4.Output: The output of the Bi-LSTM layer is the combination of the hidden states from both the forward and backward LSTM layers at each time step. The specific combination method can vary, such as concatenating the hidden states or applying a different transformation.
+
+
+https://github.com/RohitSharma-341/Bi-LSTM-Next-Word-Prediction/assets/139057604/96b00cfa-9cfd-421a-85c4-8bc895488757
